@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Sergey Che
+- 👀 I’m interested in server, game, and mobile development (mostly .NET and Flutter)
+- 🌱 Check out my current project – [the12thplayer](https://github.com/rho-cassiopeiae/the12thplayer) – a platform for football fans to gather together and interact in many different ways
+- 📫 You can reach me at rho9cas@gmail.com
