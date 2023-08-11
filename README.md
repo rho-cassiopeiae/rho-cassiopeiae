@@ -1,4 +1,6 @@
 - 👋 Hi, I’m Sergey Che
-- 👀 I’m interested in server, game, and mobile development (mostly .NET and Flutter)
-- 🌱 Check out my current project – [the12thplayer](https://github.com/rho-cassiopeiae/the12thplayer) – a social network for football fans
+- 👀 I’m interested in server, game, and blockchain development
+- 🌱 Check out my projects
+    - [The12thplayer](https://github.com/rho-cassiopeiae/the12thplayer) – a social network for football fans
+    - [TruQuest](https://github.com/rho-cassiopeiae/TruQuest) – a promise/trustworthiness tracker powered by Ethereum
 - 📫 You can reach me at rho9cas@gmail.com
